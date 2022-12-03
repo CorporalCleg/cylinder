@@ -1,0 +1,4 @@
+#!/bin/bash                                                                     
+gcc main.c -lglut -lGLU -lGL -lm
+./a.out
+
